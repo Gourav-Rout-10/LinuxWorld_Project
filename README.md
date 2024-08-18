@@ -21,9 +21,9 @@ Upload any file to an S3 bucket, with support for specifying the file path and b
 Create an event-driven Lambda function that reads email IDs from a file stored in S3 and sends customized emails using AWS SES. This feature demonstrates how to leverage multiple AWS services together.
 
 Prerequisites:-
-Python 3.7+
-AWS CLI configured with your credentials
-Boto3 library (pip install boto3)
+Python 3.7+,
+AWS CLI configured with your credentials,
+Boto3 library (pip install boto3),
 MongoDB URI (if using MongoDB integration)
 
 Usage:-
